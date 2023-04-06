@@ -13,8 +13,6 @@ export default async function Users() {
 
     const users = await usersData
 
-    console.log("hello")
-
     const content = (
         <section>
             <h2>
